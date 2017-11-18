@@ -1,3 +1,0 @@
-# My Repo
-
-Hello world!
